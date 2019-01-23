@@ -54,7 +54,7 @@ SSH tunnel from your machine (localhost) to the private instance,
 ssh -i accesskey.pem -N localport:privateInstanceIP:22
 ec2-user\@publicInstanceIP
 
-![](image1.png){width="6.5in" height="1.3666666666666667in"}
+![](image1.png)
 
 **THE TEST**
 
@@ -67,7 +67,7 @@ connect to,
 
 > Click **Open**.
 >
-> ![](image2.png){width="4.625in" height="4.541666666666667in"}
+> ![](image2.png)
 >
 > You should now be connected to your private instance (as evident by
 > your private instance's IP in the cursor prefix).
